@@ -21,3 +21,5 @@ Implemented an enhanced mouse interface on the BASYS3 FPGA board using Verilog. 
 - Successfully demonstrated cursor movement, click operations, and gesture-based commands on FPGA hardware.  
 - Enhanced BASYS3 board usability as an interactive input device.
 <img width="1090" height="466" alt="image" src="https://github.com/user-attachments/assets/d8468d68-0b01-4e4b-bcc9-959b2a82f47c" />
+
+<img width="1860" height="825" alt="image" src="https://github.com/user-attachments/assets/192a29cd-12d6-4c28-a0f6-980bc6b2ceb4" />
