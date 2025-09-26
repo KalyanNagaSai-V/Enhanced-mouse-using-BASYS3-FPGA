@@ -1,9 +1,4 @@
-## Enhanced Mouse using BASYS3 FPGA Board
-
-**Duration:** Feb.–Mar. 2023  
-**Tools & Platforms:** Verilog, Xilinx Vivado, BASYS 3 Board  
-
-## Project Overview
+## Overview
 Implemented an enhanced mouse interface on the BASYS3 FPGA board using Verilog. Enables real-time cursor control, click detection, and gesture recognition for advanced interactivity.
 
 ## Features
